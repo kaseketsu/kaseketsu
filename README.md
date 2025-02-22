@@ -18,7 +18,7 @@
 
 # 🏆 𝓗𝓸𝓷𝓸𝓻𝓼
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaseketsu" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kaseketsu&theme=dracula" />
 </div>
 
 # 💻 𝓜𝔂 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
