@@ -6,22 +6,22 @@
 
 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦. 𝐼 𝑎𝑚 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝐽𝑎𝑣𝑎 𝑎𝑛𝑑 𝑉𝑢𝑒 𝑓𝑜𝑟 𝑓𝑢𝑙𝑙-𝑠𝑡𝑎𝑐𝑘 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡. 𝐼 𝑎𝑚 𝑎 𝑏𝑒𝑔𝑖𝑛𝑛𝑒𝑟 𝑖𝑛 𝑝𝑟𝑜𝑔𝑟𝑎𝑚𝑚𝑖𝑛𝑔, 𝑑𝑟𝑖𝑣𝑒𝑛 𝑏𝑦 𝑚𝑦 𝑝𝑎𝑠𝑠𝑖𝑜𝑛.❤️
 
-# 🌱 Statas
+# 🌱 𝓢𝓽𝓪𝓽𝓪𝓼
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaseketsu" />
 </div>
 
-# 🛠️ Most used languages
+# 🛠️ 𝓜𝓸𝓼𝓽 𝓾𝓼𝓮𝓭 𝓵𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaseketsu" />
 </div>
 
-# 🏆 Honors
+# 🏆 𝓗𝓸𝓷𝓸𝓻𝓼
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kaseketsu" />
 </div>
 
-# 💻 My Tech Stack
+# 💻 𝓜𝔂 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
