@@ -1,10 +1,10 @@
-# <a href="https://cooltext.com"><img src="https://images.cooltext.com/5724392.png" width="1042" height="144" alt="Hello, I'm F1ower" /></a>
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5724392.png" width="1042" height="144" alt="Hello, I'm F1ower" /></a>
 # 🌱 Statas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaseketsu" />
 </div>
 
-# 🛠️ Most using languages
+# 🛠️ Most used languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaseketsu" />
 </div>
