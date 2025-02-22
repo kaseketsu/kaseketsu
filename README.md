@@ -1,5 +1,4 @@
-# <a href="https://cooltext.com"><img src="https://images.cooltext.com/5724392.png" width="1042" height="144" alt="Hello, I'm F1ower" /></a><br />Image by <a href="https://cooltext.com">Cool Text: Logo and Button Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=4765898601">Create Your Own Logo</a>
-
+# <a href="https://cooltext.com"><img src="https://images.cooltext.com/5724392.png" width="1042" height="144" alt="Hello, I'm F1ower" /></a>
 ## 🌱 我的 GitHub 状态
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaseketsu" />
