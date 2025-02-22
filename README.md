@@ -8,7 +8,7 @@
 
 # 🌱 𝓢𝓽𝓪𝓽𝓪𝓼
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaseketsu" />
+  ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=kaseketsu&show_icons=true&theme=dracula)
 </div>
 
 # 🛠️ 𝓜𝓸𝓼𝓽 𝓾𝓼𝓮𝓭 𝓵𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼
