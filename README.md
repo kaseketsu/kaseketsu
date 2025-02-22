@@ -18,4 +18,8 @@
 ## 💻 主要技术
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-- 你可以在这里添加更多技术徽标，例如 CSS、JavaScript 等
+- <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
+- <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
+- <img src="https://img.shields.io/badge/C++-23-blue" />
+- <img src="https://img.shields.io/badge/Java11-orange" />
+
