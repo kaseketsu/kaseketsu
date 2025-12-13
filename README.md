@@ -1,35 +1,22 @@
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5724393.png" width="1075" height="100" alt="Hello, I'm F1ower!!" /></a>
+## 我是 F1ower
+> yzu 研三在读，目前在 nova-tech 做 Java 开发实习，兴趣是数据结构与算法、JavaWeb 开发、AI 大模型应用开发
+* 技术栈：Java、Vue、C++
 
-### 𝐼 𝑒𝑛𝑗𝑜𝑦 𝑝𝑟𝑜𝑔𝑟𝑎𝑚𝑚𝑖𝑛𝑔！
 
-### 𝑠𝑜𝑚𝑒𝑡𝑖𝑚𝑒𝑠 𝑝𝑎𝑟𝑡𝑖𝑐𝑖𝑝𝑎𝑡𝑒 𝑖𝑛 𝑎𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 𝑐𝑜𝑚𝑝𝑒𝑡𝑖𝑡𝑖𝑜𝑛𝑠 𝑠𝑢𝑐ℎ 𝑎𝑠 𝑡ℎ𝑒 𝐴𝑡𝑐𝑜𝑑𝑒𝑟 𝐵𝑒𝑔𝑖𝑛𝑛𝑒𝑟 𝐶𝑜𝑛𝑡𝑒𝑠𝑡. 
+## 原创知识笔记 & 算法积累
+> 大道夷且长，窘路狭且促。修翼无卑栖，远趾不步局
+* [个人博客](https://www.f1ower.cn/) | [力扣主页](https://leetcode.cn/u/hua-n4/) | [自媒体主页](https://www.codefather.cn/user/1848733556344999937/info) | 
 
-### 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝐼 𝑎𝑚 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝐽𝑎𝑣𝑎 𝑎𝑛𝑑 𝑉𝑢𝑒 𝑓𝑜𝑟 𝑓𝑢𝑙𝑙-𝑠𝑡𝑎𝑐𝑘 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡.
 
-### 𝐼 𝑎𝑚 𝑎 𝑏𝑒𝑔𝑖𝑛𝑛𝑒𝑟 𝑖𝑛 𝑝𝑟𝑜𝑔𝑟𝑎𝑚𝑚𝑖𝑛𝑔, 𝑑𝑟𝑖𝑣𝑒𝑛 𝑏𝑦 𝑚𝑦 𝑝𝑎𝑠𝑠𝑖𝑜𝑛.❤️
+## 个人项目开源
+> 帆翅初张处，云鹏怒翼同。莫愁千里路，自有到来风
+* CodeMate：[基于 SpringBoot 和 Next.js 的刷题平台](https://github.com/kaseketsu/CodeMate-backend)
+* AIChatRoom：[基于 deepseek 的海龟汤小游戏](https://github.com/kaseketsu/AiChatRomm-backend)
+* CloudPicturePlatForm：[基于 vue3 + SpringBoot + COS 的图片平台](https://github.com/kaseketsu/CloudPicturePlatForm)
+* AIPlatform：[基于 LangChain4j 的零代码生成平台](https://github.com/kaseketsu/AI-zeroCode-generate-platForm)
 
-# 🌱 𝓢𝓽𝓪𝓽𝓪𝓼
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaseketsu&show_icons=true&theme=dracula" />
-</div>
+## 年度贡献汇总
+> 谁能借与抟扶势，万里飘飘试一飞
 
-# 🛠️ 𝓜𝓸𝓼𝓽 𝓾𝓼𝓮𝓭 𝓵𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaseketsu&theme=dracula" />
-</div>
-
-# 🏆 𝓗𝓸𝓷𝓸𝓻𝓼
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaseketsu&theme=dracula" />
-</div>
-
-# 💻 𝓜𝔂 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
-  <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/C++-23-blue" />
-  <img src="https://img.shields.io/badge/Java11-orange" />
-</div>
-
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=wuzizhongqiu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaseketsu&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
