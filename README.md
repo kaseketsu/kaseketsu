@@ -1,5 +1,5 @@
 ## 我是 F1ower
-> 目前在 nova-tech 做 Java 开发实习，兴趣是数据结构与算法、JavaWeb 开发、AI 大模型应用开发
+> 目前在 nuanwa-tech 做 Java 开发实习，兴趣是数据结构与算法、JavaWeb 开发、AI 大模型应用开发
 * 技术栈：Java、Vue、C++
 
 
