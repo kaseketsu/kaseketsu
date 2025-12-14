@@ -5,7 +5,7 @@
 
 ## 原创知识笔记 & 算法积累
 > 大道夷且长，窘路狭且促。修翼无卑栖，远趾不步局
-* [个人博客](https://www.f1ower.cn/) | [力扣主页](https://leetcode.cn/u/hua-n4/) | [自媒体主页]([https://www.codefather.cn/user/1848733556344999937/info](https://blog.csdn.net/FlowerLoveJava?spm=1000.2115.3001.5343)) | 
+* [个人博客](https://www.f1ower.cn/) | [力扣主页](https://leetcode.cn/u/hua-n4/) | [自媒体主页](https://blog.csdn.net/FlowerLoveJava?spm=1000.2115.3001.5343)) | 
 
 
 ## 个人项目开源
