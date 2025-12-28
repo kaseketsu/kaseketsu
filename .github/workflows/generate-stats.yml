@@ -1,0 +1,67 @@
+name: Generate GitHub Stats Images
+on:
+  schedule:
+    - cron: "0 0 * * *"  # 每天更新一次
+  workflow_dispatch:     # 支持手动触发
+
+permissions:
+  contents: write  # 允许写入 workflow 有写入仓库的权限
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 你的仓库
+        uses: actions/checkout@v4
+
+      - name: Checkout 官方 github-readme-stats 代码
+        uses: actions/checkout@v4
+        with:
+          repository: anuraghazra/github-readme-stats  # 拉取官方仓库
+          path: github-readme-stats  # 存放到子目录
+
+      - name: 配置 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22.x
+          cache: "npm"
+          cache-dependency-path: github-readme-stats/package-lock.json
+
+      - name: 安装官方仓库依赖
+        run: cd github-readme-stats && npm ci
+
+      - name: 生成主统计卡片（对应示例中的第一个图片）
+        run: |
+          cd github-readme-stats
+          node src/server.js generate \
+            --username=kaseketsu \
+            --hide_title=true \
+            --hide_border=true \
+            --show_icons=true \
+            --include_all_commits=true \
+            --line_height=21 \
+            --bg_color=0,EC6C6C,FFD479,FFFC79,73FA79 \
+            --theme=graywhite \
+            --locale=cn \
+            --output=../stats/github-stats.svg  # 输出到你的仓库的 stats 目录
+
+      - name: 生成语言统计卡片（对应示例中的第二个图片）
+        run: |
+          cd github-readme-stats
+          node src/server.js generate-top-langs \
+            --username=kaseketsu \
+            --hide_title=true \
+            --hide_border=true \
+            --layout=compact \
+            --bg_color=0,73FA79,73FDFF,D783FF \
+            --theme=graywhite \
+            --locale=cn \
+            --output=../stats/top-langs.svg  # 输出到你的仓库的 stats 目录
+
+      - name: 提交生成的图片到仓库
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add stats/
+          git commit -m "Update stats images" || echo "No changes to commit"
+          git push
